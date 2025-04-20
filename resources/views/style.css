@@ -336,6 +336,7 @@ html {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  margin-bottom: 30px;
 }
 
 .biaya-wrapper{
